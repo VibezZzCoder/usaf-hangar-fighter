@@ -12,7 +12,7 @@ https://vibezzzcoder.github.io/usaf-hangar-fighter/
 - One hangar/airbase stage with pixel-art inspired visuals
 - Local two-player keyboard controls
 - Optional CPU control for Player 2
-- Mobile touch controls in landscape mode
+- Mobile touch controls for phone and tablet browsers
 - Punch, kick, jump, crouch, hitstun, knockback, health bars, and win state
 - Debug hitbox toggle for tuning and testing
 
@@ -43,8 +43,9 @@ System:
 
 Mobile:
 
-- Rotate the phone to landscape.
 - Touch controls appear automatically.
+- Portrait and landscape are both playable.
+- Landscape gives the roomiest view when the browser supports it cleanly.
 - Player 2 CPU is enabled by default on phones/tablets.
 
 ## Local Play
