@@ -1,16 +1,20 @@
 # USAF Hangar Fighter
 
-A browser-based 2D fighting game prototype with desktop keyboard controls and mobile touch controls.
+A browser-based 2D arcade fighting game prototype set in a USAF-inspired hangar stage. It supports desktop keyboard play and mobile browser play with touch controls.
 
-## Play
+Play it here:
 
-After GitHub Pages is enabled, the game will be available at:
+https://vibezzzcoder.github.io/usaf-hangar-fighter/
 
-```text
-https://YOUR-GITHUB-USERNAME.github.io/usaf-hangar-fighter/
-```
+## Features
 
-Replace `YOUR-GITHUB-USERNAME` with your GitHub username.
+- Two playable fighters: `CWU 27/P` and `2PFDU`
+- One hangar/airbase stage with pixel-art inspired visuals
+- Local two-player keyboard controls
+- Optional CPU control for Player 2
+- Mobile touch controls in landscape mode
+- Punch, kick, jump, crouch, hitstun, knockback, health bars, and win state
+- Debug hitbox toggle for tuning and testing
 
 ## Controls
 
@@ -43,20 +47,20 @@ Mobile:
 - Touch controls appear automatically.
 - Player 2 CPU is enabled by default on phones/tablets.
 
-## GitHub Pages Setup
+## Local Play
 
-1. Create a new GitHub repository named `usaf-hangar-fighter`.
-2. Upload the contents of this folder to the repository root.
-3. Make sure `index.html` is at the top level of the repository, not inside another folder.
-4. In GitHub, open the repository `Settings`.
-5. Go to `Pages`.
-6. Under `Build and deployment`, choose `Deploy from a branch`.
-7. Select branch `main` and folder `/root`.
-8. Save.
+Open `index.html` directly in a desktop browser, or host the repository with any static file server.
 
-GitHub will publish the direct play link after a minute or two.
+No build step is required.
+
+## Attribution
+
+Created by [@VibezZzCoder](https://github.com/VibezZzCoder).
+
+This is an independent fan/prototype project and is not an official U.S. Air Force product.
 
 ## License
 
-This project is released under CC0 1.0 Universal. Attribution is not required.
+Released under the MIT License.
+
 See `LICENSE` for details.
