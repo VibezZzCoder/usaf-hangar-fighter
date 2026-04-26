@@ -44,6 +44,7 @@ System:
 Mobile:
 
 - Touch controls appear automatically.
+- `JUMP LEFT` and `JUMP RIGHT` buttons provide mobile-friendly diagonal jumps.
 - Portrait and landscape are both playable.
 - Landscape gives the roomiest view when the browser supports it cleanly.
 - Player 2 CPU is enabled by default on phones/tablets.
