@@ -47,6 +47,7 @@ Mobile:
 - `JUMP LEFT` and `JUMP RIGHT` buttons provide mobile-friendly diagonal jumps.
 - Portrait and landscape are both playable.
 - Landscape gives the roomiest view when the browser supports it cleanly.
+- For the best phone experience, use landscape and choose `Add to Home Screen` for fullscreen play.
 - Player 2 CPU is enabled by default on phones/tablets.
 
 ## Local Play
