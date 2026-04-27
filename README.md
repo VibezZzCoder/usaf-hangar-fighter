@@ -1,6 +1,6 @@
 # USAF Hangar Fighter
 
-A browser-based 2D arcade fighting game prototype set in a USAF-inspired hangar stage. It supports desktop keyboard play and mobile browser play with touch controls.
+A browser-based 2D arcade fighting game prototype with scenario-based matchups, desktop keyboard play, and mobile touch controls.
 
 Play it here:
 
@@ -8,8 +8,8 @@ https://vibezzzcoder.github.io/usaf-hangar-fighter/
 
 ## Features
 
-- Two playable fighters: `CWU 27/P` and `2PFDU`
-- One hangar/airbase stage with pixel-art inspired visuals
+- Three scenarios: Flight Suit vs Camo, PT Showdown, and Formal Face-Off
+- Scenario-specific fighter pairings and stage backgrounds
 - Local two-player keyboard controls
 - Optional CPU control for Player 2
 - Mobile touch controls for phone and tablet browsers
@@ -54,16 +54,20 @@ Mobile:
 
 Open `index.html` directly in a desktop browser, or host the repository with any static file server.
 
-No build step is required.
+No build step is required for local play.
 
 ## Attribution
 
 Created by [@VibezZzCoder](https://github.com/VibezZzCoder).
 
-This is an independent fan/prototype project and is not an official U.S. Air Force product.
+USAF Hangar Fighter is an independent fan/prototype project and is not an official U.S. Air Force product. It is not endorsed by, sponsored by, or affiliated with the U.S. Air Force, the Department of the Air Force, or the U.S. Department of Defense.
+
+The project uses fictionalized, stylized, military-inspired characters and settings. No official endorsement is implied.
 
 ## License
 
-Released under the MIT License.
+This project is licensed under the GNU General Public License v3.0 or later. You are free to play, study, share, and modify the game. Modified versions that are distributed must also remain under the GPL and include source code.
+
+The license applies to this project's original code and assets. It does not grant rights to use any third-party trademarks, logos, seals, emblems, or official marks.
 
 See `LICENSE` for details.
