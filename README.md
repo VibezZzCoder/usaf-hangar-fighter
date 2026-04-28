@@ -70,4 +70,4 @@ This project is licensed under the GNU General Public License v3.0 or later. You
 
 The license applies to this project's original code and assets. It does not grant rights to use any third-party trademarks, logos, seals, emblems, or official marks.
 
-See `LICENSE` for details.
+See `LICENSE` for details.  
