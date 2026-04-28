@@ -66,16 +66,8 @@ The project uses fictionalized, stylized, military-inspired characters and setti
 
 ## License
 
-USAF Hangar Fighter is licensed under the GNU General Public License v3.0 or later.
-
-Copyright (C) 2026 VibezZzCoder
-
-This project is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or, at your option, any later version.
-
-This project is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+This project is licensed under the GNU General Public License v3.0 or later. You are free to play, study, share, and modify the game. Modified versions that are distributed must also remain under the GPL and include source code.
 
 The license applies to this project's original code and assets. It does not grant rights to use any third-party trademarks, logos, seals, emblems, or official marks.
 
-The copyright notice applies to this independent fan/prototype project's original code and original assets only. It does not claim ownership of, endorsement by, or affiliation with the U.S. Air Force, the Department of the Air Force, or the U.S. Department of Defense.
-
-See `LICENSE` for the full license text.
+See `LICENSE` for details.
