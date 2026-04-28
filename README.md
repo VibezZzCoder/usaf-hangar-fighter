@@ -12,11 +12,11 @@ This is an early prototype. Gameplay, art, controls, and balance may change freq
 
 ## Screenshots
 
-![Flight Suit vs Camo scenario](assets/screenshots/scenario-flight-suit-vs-camo.png)
+![Flight Suit vs Camo scenario](scenario-flight-suit-vs-camo.png)
 
-![PT Showdown scenario](assets/screenshots/scenario-pt-showdown.png)
+![PT Showdown scenario](scenario-pt-showdown.png)
 
-![Formal Face-Off scenario](assets/screenshots/scenario-formal-face-off.png)
+![Formal Face-Off scenario](scenario-formal-face-off.png)
 
 ## Features
 
