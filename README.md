@@ -37,6 +37,7 @@ Player 1:
 - `S` = crouch
 - `F` = punch
 - `G` = kick
+- `R` = block
 
 Player 2:
 
@@ -45,6 +46,7 @@ Player 2:
 - `Down` = crouch
 - `K` = punch
 - `L` = kick
+- `O` = block
 
 System:
 
