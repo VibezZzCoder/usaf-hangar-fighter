@@ -20,13 +20,23 @@ This is an early prototype. Gameplay, art, controls, and balance may change freq
 
 ## Features
 
+- Main Mode Select with `Versus Mode` and `Boss Rush Mode`
+- Versus Mode uses best-of-three rounds
 - Three scenarios: Joint Maintenance, PT Showdown, and Formal Face-Off
 - Scenario-specific fighter pairings and stage backgrounds
+- Boss Rush single-player run: MTI vs Karateka, SecFo, and AI Robot
 - Local two-player keyboard controls
 - Optional CPU control for Player 2
+- Player 2 CPU support remains available for Versus play (and is enabled by default on phones/tablets)
 - Mobile touch controls for phone and tablet browsers
 - Punch, kick, jump, crouch, hitstun, knockback, health bars, and win state
 - Debug hitbox toggle for tuning and testing
+
+## Game Modes
+
+- `Versus Mode`: pick a scenario and play best-of-three rounds with local PvP or CPU Player 2.
+- `Boss Rush Mode`: single-player challenge where MTI fights three bosses in sequence: Karateka, SecFo, then AI Robot.
+- Controls and core combat actions are shared across both modes.
 
 ## Controls
 
