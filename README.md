@@ -1,4 +1,4 @@
-# USAF Hangar Fighter
+# Hangar Fighter
 
 A browser-based 2D arcade fighting game prototype with scenario-based matchups, desktop keyboard play, and mobile touch controls.
 
@@ -84,7 +84,7 @@ No build step is required for local play.
 
 Created by [@VibezZzCoder](https://github.com/VibezZzCoder).
 
-USAF Hangar Fighter is an independent fan/prototype project and is not an official U.S. Air Force product. It is not endorsed by, sponsored by, or affiliated with the U.S. Air Force, the Department of the Air Force, or the U.S. Department of Defense.
+Hangar Fighter is an independent fan/prototype project and is not an official U.S. Air Force product. It is not endorsed by, sponsored by, or affiliated with the U.S. Air Force, the Department of the Air Force, or the U.S. Department of Defense.
 
 The project uses fictionalized, stylized, military-inspired characters and settings. No official endorsement is implied.
 
@@ -94,7 +94,7 @@ Issues, suggestions, and pull requests are welcome. Please keep contributions re
 
 ## License
 
-USAF Hangar Fighter is licensed under the GNU General Public License v3.0 or later.
+Hangar Fighter is licensed under the GNU General Public License v3.0 or later.
 
 Copyright (C) 2026 VibezZzCoder
 
