@@ -1,4 +1,4 @@
-# Hangar Fighter
+# USAF Hangar Fighter
 
 A browser-based 2D arcade fighting game prototype with scenario-based matchups, desktop keyboard play, and mobile touch controls.
 
@@ -8,7 +8,10 @@ https://vibezzzcoder.github.io/usaf-hangar-fighter/
 
 ## Status
 
-This is an early prototype. Gameplay, art, controls, and balance may change frequently.
+This is a stable, published prototype. Versus Mode and Boss Rush Mode are implemented,
+and the self-contained release build is live at the link above. Automated QA is green on
+the current build; remaining acceptance work is human real-device audio, mobile layout,
+and final playfeel review rather than a known coding blocker.
 
 ## Screenshots
 
@@ -22,9 +25,12 @@ This is an early prototype. Gameplay, art, controls, and balance may change freq
 
 - Main Mode Select with `Versus Mode` and `Boss Rush Mode`
 - Versus Mode uses best-of-three rounds
+- Boss Rush uses best-of-three rounds per boss, so a clean run is six rounds
 - Three scenarios: Joint Maintenance, PT Showdown, and Formal Face-Off
 - Scenario-specific fighter pairings and stage backgrounds
 - Boss Rush single-player run: MTI vs Karateka, SecFo, and AI Robot
+- Per-stage music, layered sound effects, and an announcer line at the start of a match
+- Victory celebration after clearing the final boss, skippable with a tap or `Enter`
 - Local two-player keyboard controls
 - Optional CPU control for Player 2
 - Player 2 CPU support remains available for Versus play (and is enabled by default on phones/tablets)
@@ -35,7 +41,7 @@ This is an early prototype. Gameplay, art, controls, and balance may change freq
 ## Game Modes
 
 - `Versus Mode`: pick a scenario and play best-of-three rounds with local PvP or CPU Player 2.
-- `Boss Rush Mode`: single-player challenge where MTI fights three bosses in sequence: Karateka, SecFo, then AI Robot.
+- `Boss Rush Mode`: single-player challenge where MTI fights three bosses in sequence -- Karateka, SecFo, then AI Robot. Each boss is its own best-of-three match: win two rounds to move on, lose two and the run is over. A full clean run is six rounds.
 - Controls and core combat actions are shared across both modes.
 
 ## Controls
@@ -63,7 +69,7 @@ System:
 - `C` = toggle CPU for Player 2
 - `H` = toggle hitbox debug
 - `Space` = pause
-- `Enter` = reset
+- `Enter` = reset, and confirms menu and round-end prompts
 
 Mobile:
 
@@ -84,7 +90,7 @@ No build step is required for local play.
 
 Created by [@VibezZzCoder](https://github.com/VibezZzCoder).
 
-Hangar Fighter is an independent fan/prototype project and is not an official U.S. Air Force product. It is not endorsed by, sponsored by, or affiliated with the U.S. Air Force, the Department of the Air Force, or the U.S. Department of Defense.
+USAF Hangar Fighter is an independent fan/prototype project and is not an official U.S. Air Force product. It is not endorsed by, sponsored by, or affiliated with the U.S. Air Force, the Department of the Air Force, or the U.S. Department of Defense.
 
 The project uses fictionalized, stylized, military-inspired characters and settings. No official endorsement is implied.
 
@@ -94,7 +100,7 @@ Issues, suggestions, and pull requests are welcome. Please keep contributions re
 
 ## License
 
-Hangar Fighter is licensed under the GNU General Public License v3.0 or later.
+USAF Hangar Fighter is licensed under the GNU General Public License v3.0 or later.
 
 Copyright (C) 2026 VibezZzCoder
 
