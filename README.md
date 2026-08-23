@@ -10,8 +10,8 @@ https://vibezzzcoder.github.io/usaf-hangar-fighter/
 
 This is a stable, published prototype. Versus Mode and Boss Rush Mode are implemented,
 and the self-contained release build is live at the link above. Automated QA is green on
-the current build; remaining acceptance work is human real-device audio, mobile layout,
-and final playfeel review rather than a known coding blocker.
+the current build, which has also been played and accepted on macOS Safari, on iOS, and
+as an iOS home-screen web app. There is no known coding blocker.
 
 ## Screenshots
 
